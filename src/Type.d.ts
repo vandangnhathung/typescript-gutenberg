@@ -1,3 +1,3 @@
 export interface BlockAttributes {
-	content: number;
+	content: string;
 }
